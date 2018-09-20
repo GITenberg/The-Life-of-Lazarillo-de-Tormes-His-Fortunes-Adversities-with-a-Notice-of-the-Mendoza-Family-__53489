@@ -1,0 +1,42 @@
+_repo: The-Life-of-Lazarillo-de-Tormes-His-Fortunes-Adversities-with-a-Notice-of-the-Mendoza-Family-__53489
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Markham, Clements R. (Clements Robert), Sir
+    aliases:
+    - Markham, Sir Clements R. (Clements Robert)
+    - Markham, Clements Robert, Sir
+    birthdate: 1830
+    deathdate: 1916
+    gutenberg_agent_id: '2962'
+    url: http://www.gutenberg.org/2009/agents/2962
+    wikipedia: http://en.wikipedia.org/wiki/Clements_Markham
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_issued: '2016-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53489'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Picaresque fiction'
+- !lcsh 'Spanish fiction -- Translations into English'
+- !lcc 'PQ'
+- GITenberg
+title: 'The Life of Lazarillo de Tormes
+
+  His Fortunes & Adversities; with a Notice of the Mendoza Family, a Short Life of
+  the Author, Don Diego Hurtado De Mendoza, a Notice of the Work, and Some Remarks
+  on the Character of Lazarillo de Tormes'
+url: http://www.gutenberg.org/ebooks/53489
